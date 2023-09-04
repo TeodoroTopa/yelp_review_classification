@@ -1,0 +1,26 @@
+INFO 3350 Final Project Responsibility Statement
+by Teodoro Topa, netid: tst42
+
+I worked on this project with one partner, hgr26.
+
+Outlined below are the tasks I completed and the tasks hgr26 completed:
+
+Me:
+- Researching potential datasets
+- Harvesting the Yelp dataset, and wrangling it into a usable form by
+running a .py script and making a small separate notebook for creation of 
+the final csv dataset.
+- All coding and most markdown related to classifying reviews by star rating
+ (tfidf lemma matrix, sentiment scoring, and word embeddings)
+- Contributed to writing the introduction, results, and discussion & results 
+sections.
+
+
+hgr26:
+- Researching potential datasets
+- Some markdown explanation
+- All coding and markdown explanation related to topic modeling and classifying 
+reviews by business type.
+- Contributed to writing the introduction, results, and discussion & results 
+sections.
+
