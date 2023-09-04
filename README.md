@@ -5,10 +5,12 @@ To see the project methodoogy and results, see the 'main_analysis' notebook. For
 
 The research questions we explored are the following:
 1. How accurately can various algorithms correctly classify star rating based on review text? What NLP method is most effective for building training data for identifying star numbers based on review text?
+   
         - Tf-idf Lemma feature matrices?
         - Average review sentiment feature matrix?
     
-2. How accurately can topic modeling paired with various algorithms identify what type of restaurant a review is written about?
+3. How accurately can topic modeling paired with various algorithms identify what type of restaurant a review is written about?
+   
         - Restaurant vs other type of business?
         - Specific types of restaurants in a multiclass classification?
         - Specific types of restaurants in single item classification (Mexican or not)?
